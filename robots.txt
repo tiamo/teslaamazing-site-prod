@@ -1,0 +1,6 @@
+User-agent: *
+Crawl-delay: 10
+Disallow: /js/
+Disallow: /css/
+Disallow: /customer/
+Disallow: /*?*utm_

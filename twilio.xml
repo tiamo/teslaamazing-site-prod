@@ -1,0 +1,11 @@
+<Response>
+
+  <!--<Say voice="woman">You have reached Tesla Amazing. At this moment we can't answer your call. You can leave your message after the tone and we will get back to you as soon as possible. Please spell your e-mail so we could reach you faster. Thank you.</Say>-->
+
+  <!--<Record timeout="10" transcribe="true" />-->
+
+  <Dial timeout="10" record="true" callerId="+3728803340">
+    <Number>+79060622266</Number>
+  </Dial>
+
+</Response>
